@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://roarenas-agsch2.github.io/reference-voj406/sitemap.xml
